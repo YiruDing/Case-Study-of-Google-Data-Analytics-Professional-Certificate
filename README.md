@@ -3,7 +3,7 @@
 
 # Why would casual riders buy Cyclistic annual memberships?
 
-To solve this question and complete the Google Data Analytics Professional Certificate Capstone Project, here are the steps I will adopt:
+To answer this question and complete the Google Data Analytics Professional Certificate Capstone Project, here are the steps I will adopt:
 
 ## ask
 
