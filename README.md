@@ -5,16 +5,16 @@
 
 To solve this question and complete the Google Data Analytics Professional Certificate Capstone Project, here are the steps I will adopt:
 
-##ask
+## ask
 
-##prepare
+## prepare
 
-##process
+## process
 
-##analyze
+## analyze
 
-##share
+## share
 
-##act
+## act
 
 
