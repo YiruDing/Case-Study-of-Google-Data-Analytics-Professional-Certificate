@@ -1,26 +1,23 @@
+# Google Data Analytics Capstone Project — Cyclistic bike share analysis
 
-#### As a rider in Chicago with Cyclistic, the bike-share program, you might want to ask this question: 
+## Background
 
-# Why would casual riders buy Cyclistic annual memberships?
+Originally based on the case study [“‘Sophisticated, Clear, and Polished’: Divvy and Data Visualization”]( https://artscience.blog/home/divvy-dataviz-case-study) written by Kevin Hartman, the following analysis is to help a fictional company in Chicago, Cyclistic, featuring out how to convert casual riders(riders with single-ride or full-day pass) into annual members.
 
-To answer this question and complete the Google Data Analytics Professional Certificate Capstone Project, here are the steps I will adopt:
+Cyclistic’s finance analysts have concluded that annual members are much more profitable than casual riders. Although the pricing flexibility helps Cyclistic attract more customers, Moreno, The director of marketing, believes that maximizing the number of annual members will be key to future growth. Rather than creating a marketing campaign that targets all new customers, Moreno believes there is a very good chance to convert casual riders into members. 
 
-## ask
+##  Business task 
 
-As the title suggested, it's about how to make the casual riders the annual members. 
+Analyze rider's usage patterns for marketing membership conversion programs.
 
-I would dig the incentive that the drivers purchase the membership by checking the distance of their riding and the most popular days.
+Tools: R, Google Sheets, BigQuery, and Tableau.
 
-## prepare
+Dataset: Cyclistic’s historical trip data from October 2022 to September 2023(internal/first-party data provided as .csv spreadsheets)
 
-Because there are more than five million trip records per year, I did the data sampling by downloading the [Cyclistic’s historical trip data]( https://divvy-tripdata.s3.amazonaws.com/index.html) from January to September 2023 that has been made available by Motivate International Inc. 
+## Process
 
-## process
+###ask
 
-## analyze
+This is the question asked: How do annual members and casual riders use Cyclistic bikes differently? 
 
-## share
-
-## act
-
-
+I would dig the incentive that drives the driver to purchase the membership by checking the distance of their riding, the most popular station, and the most popular day(s).
