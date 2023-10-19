@@ -16,8 +16,10 @@ Dataset: Cyclistic’s historical trip data from October 2022 to September 2023(
 
 ## Process
 
-###ask
+### ask
 
-This is the question asked: How do annual members and casual riders use Cyclistic bikes differently? 
+This is the question asked: 
+
+### How do annual members and casual riders use Cyclistic bikes differently? 
 
 I would dig the incentive that drives the driver to purchase the membership by checking the distance of their riding, the most popular station, and the most popular day(s).
